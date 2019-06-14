@@ -1,0 +1,109 @@
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
+h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+input {
+  border: solid 1px;
+}
+.submit-btn {
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: black;
+  border: none;
+  border-radius: 2px;
+  color: black;
+  font-size: 100%;
+  color: white;
+}
+
+.blank {
+  display:flex;
+  justify-content: flex-end;
+  background-color: white;
+  border: solid 5px;
+  border-color: black;
+  width: 60%;
+  height: 200px;
+  font-size: 20px;
+}
+div{
+  display: flex;
+  flex-align: row;
+}
+  * {
+    background-color: #CCD4FF;
+    font-family: 'Libre Baskerville', serif;
+    
+
+  }
+
+  .place{
+    background-color: white;
+  }
+  .pluralNoun1{
+    background-color: white;
+  }
+  .pluralNoun2{
+    background-color: white;
+  }
+  .pluralNoun3{
+    background-color: white;
+  }
+  .noun1{
+    background-color: white;
+  }
+  .noun2{
+    background-color: white;
+  }
+  .noun3{
+    background-color: white;
+  }
+  .noun4{
+    background-color: white;
+  }
+  .possessiveNoun{
+    background-color: white;
+  }
+  .time{
+    background-color: white;
+  }
+  .adjective1{
+    background-color: white;
+  }
+  .adjective2{
+    background-color: white;
+  }
+  .adjective3{
+    background-color: white;
+  }
+  .adjective4{
+    background-color: white;
+  }
+  .adjective5{
+    background-color: white;
+  }
+  .verb1{
+    background-color: white;
+  }
+  .verb2{
+    background-color: white;
+  }
+  .verb3{
+    background-color: white;
+  }
+  .pastTense1{
+    background-color: white;
+  }
+  .pastTense2{
+    background-color: white;
+  }
+  .ing{
+    background-color: white;
+  }
+  .para{
+    background-color: white;
+    font-family: 'Libre Baskerville', serif;
+  }

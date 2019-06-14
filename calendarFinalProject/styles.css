@@ -1,0 +1,249 @@
+ul {list-style-type: none;}
+/*  */
+/* Month header */
+
+* {
+  background-color: #DAFFF4;
+  font-family: 'Quicksand', sans-serif;
+}
+input {
+  background-color: white;
+  width: 33%;
+}
+img {
+  display: flex;
+  object-fit: cover;
+  /* width: 300px;
+  height: 30%;
+  margin-left: auto;
+  margin-right: auto; */
+}
+.minutes {
+  background-color: #A8DBFF;
+}
+h6 {
+  font-size: 25px;
+  color: white;
+  background-color: #A8DBFF;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.timeConvert {
+  margin-top: 3px;
+  font-size: 15px;
+}
+
+.timeDiv {
+  padding: 5px;
+  background-color: #A8DBFF;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+.timeDiv {
+  border: solid 2px;
+  border-color: #77B9EB;
+  display: inline-block;
+  padding: 20px;
+  width: 300px;
+  height: 100px;
+}
+.project {
+  font-size: 20px;
+}
+
+.submit {
+  display: flex;
+  margin-left: 530px;
+  width: 290px;
+  height: 50px;
+  vertical-align: middle;
+  background-color: #A8DBFF;
+  font-size: 20px;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+}
+
+.min {
+  margin-left: 210px;
+  font-size: 20px;
+  max-width: 150px;
+
+}
+.whatSteps {
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 20px;
+  margin-left: 20px;
+}
+#questions{
+  display: flex;
+  flex-direction: row;
+}
+
+.want {
+  margin-left: 65px;
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 20px;
+  max-width:500px;
+}
+ .appended {
+   display: flex;
+   justify-content: space-around;
+
+
+ }
+ .inp1 {
+   color: #617687
+   height: 100px;
+   font-size: 28px;
+   margin-left: 20px;
+
+ }
+ .inp2 {
+   color: #617687
+ }
+
+ .inp3 {
+   color: #617687
+ }
+
+ .inp4 {
+   color: #617687
+ }
+
+ .inp5 {
+   color: #617687
+ }
+
+ .day{
+   font-size: 40px;
+   color: #77B9EB;
+   border: dotted 2px;
+
+ }
+
+.time1 {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 100px;
+  height: 35px;
+  font-size: 28px;
+
+}
+.time2 {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 100px;
+
+}
+.time3 {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 100px;
+
+}
+.time4 {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 100px;
+
+}
+.time5 {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 100px;
+
+}
+.want1 {
+  margin-left: 100px;
+  height: 35px;
+  font-size: 28px;
+}
+.want2 {
+  margin-left: 100px;
+}
+.want3 {
+  margin-left: 100px;
+}
+.want4 {
+  margin-left: 100px;
+}
+.want5 {
+  margin-left: 100px;
+}
+
+
+/* h1{font-size:35px;}
+h2{font-size:30px;}
+h3{font-size:25px;}
+p {font-size:16px;} */
+
+.quotemark {
+    position: relative;
+    top: -12px;
+    padding-right: 10px;
+}
+
+blockquote {
+  border-left: 10px solid #A8DBFF;
+  margin: 30px 10px;
+  padding: 10px 30px;
+}
+blockquote:before {
+  color: #E6FFB5;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote h1, h2, h3, p{
+  display: inline;
+}
+blockquote footer {
+	font-size:18px;
+	text-align:right;
+	color:transparent;
+}
+
+.container {
+	max-height:800px;
+  max-width: 500px;
+	/* margin: 10% auto auto auto; */
+}
+.quotebox {
+	background:#fff;
+	max-width:500px;
+	min-height:100px;
+	border:1px solid #222;
+	border-radius:5px;
+	margin:10px;
+}
+
+.quotebutton {
+	display:inline-block;
+	padding:6px 12px;
+}
+	#quotesource{margin-top:20px}
+
+.btn {margin-bottom:10px}
+
+
+.btn-primary {
+	width: 100px;
+	height: 40px;
+	border:none;
+  background-color: #A8DBFF
+	}
+
+@media only screen and (max-width: 768px){
+    #quotetext {font-size:25px; }
+	.container {	margin-right:20px;}
+    }
+@media only screen and (max-width: 320px){
+    #quotetext {font-size:18px; }
+
+    }

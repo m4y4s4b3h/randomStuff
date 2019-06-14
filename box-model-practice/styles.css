@@ -1,0 +1,22 @@
+html {
+  background-color: #FEEEEE;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+div {
+  padding: 0px;
+  margin-right: 250px;
+  border: solid 10px;
+  background-color: #FEEEEE;
+  border-color: white;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 20px;
+}
+img {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  top: 50px;
+  right: 300px;
+
+}

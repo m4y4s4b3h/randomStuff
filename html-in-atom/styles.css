@@ -1,0 +1,42 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  border: dashed 3px;
+  border-color: pink;
+}
+h1 {
+  color: red;
+  font-size: 50px;
+}
+.p1 {
+  color: orange;
+  font-family: 'Dosis', sans-serif;
+
+}
+h2 {
+  color: yellow;
+  font-size:50px;
+}
+
+.p2 {
+  color: green;
+  font-family: 'Dosis', sans-serif;
+
+}
+h3 {
+  color: blue;
+  font-size: 50px;
+}
+.p3{
+  color: purple;
+  font-family: 'Dosis', sans-serif;
+
+}
+h4{
+  color:red;
+  font-size: 50px;
+}
+.p4{
+  color:orange;
+  font-family: 'Dosis', sans-serif;
+
+}
